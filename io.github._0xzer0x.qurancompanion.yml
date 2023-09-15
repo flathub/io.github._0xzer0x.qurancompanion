@@ -10,7 +10,6 @@ finish-args:
   - --socket=wayland
   - --socket=pulseaudio
   - --device=dri
-  - --persist=.qurancompanion
   - --talk-name=org.kde.StatusNotifierWatcher
 modules:
   - name: quran-companion
@@ -21,5 +20,5 @@ modules:
     sources:
       - type: git
         url: "https://github.com/0xzer0x/quran-companion.git"
-        tag: "v1.1.7"
-        commit: "111d31445c6fcc44e1ebf762f33692c8f8ec19c4"
+        tag: "v1.1.8"
+        commit: "5c8aedb00e3db2c3e915f2cbc854fbd29785418b"
