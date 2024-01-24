@@ -20,5 +20,5 @@ modules:
     sources:
       - type: git
         url: "https://github.com/0xzer0x/quran-companion.git"
-        tag: "v1.2.1"
-        commit: "61fc2ab176957e410db7c9c010276f664ac63377"
+        tag: "v1.2.2"
+        commit: "dbaa8b1b32ca7f8793bb998f7acedfde4f923e42"
