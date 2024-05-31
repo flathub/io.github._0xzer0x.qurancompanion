@@ -22,3 +22,7 @@ modules:
         url: "https://github.com/0xzer0x/quran-companion.git"
         tag: "v1.2.5"
         commit: "1b542d406e1e55836eb191ffacf687f4efe7053f"
+        x-checker-data:
+          type: git
+          tag-pattern: ^v(\d+\.\d+\.\d+)$
+          version-scheme: semantic
