@@ -20,8 +20,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/0xzer0x/quran-companion.git
-        tag: v1.2.6
-        commit: 899761a05618cb664c340bb6d6cd54eb64462170
+        tag: v1.2.7
+        commit: a9902e28a0f7e94efd74976707fd8db5a7458fc8
         x-checker-data:
           type: git
           tag-pattern: ^v(\d+\.\d+\.\d+)$
