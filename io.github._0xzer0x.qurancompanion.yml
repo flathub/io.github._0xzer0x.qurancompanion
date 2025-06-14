@@ -1,6 +1,6 @@
 app-id: io.github._0xzer0x.qurancompanion
 runtime: org.kde.Platform
-runtime-version: "6.8"
+runtime-version: '6.8'
 sdk: org.kde.Sdk
 command: quran-companion
 finish-args:
@@ -20,8 +20,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/0xzer0x/quran-companion.git
-        tag: v1.3.2
-        commit: 27e58774a513c817d26ae5b93892d1ddf84fa8bc
+        tag: v1.3.3
+        commit: 18077b3091e55a8a58ed331e949a5e576819a9eb
         x-checker-data:
           type: git
           tag-pattern: ^v(\d+\.\d+\.\d+)$
